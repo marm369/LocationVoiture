@@ -1,0 +1,11 @@
+Toyota Camry 2019 300 C:\\Users\\minou\\eclipse-workspace\\Locations\\src\\icon\\ToyotaCamry.png
+Audi AudiA1 2022 500 C:\\Users\\minou\\eclipse-workspace\\Locations\\src\\icon\\AudiA1.png
+BMW BMWX7 2018 400 C:\\Users\\minou\\eclipse-workspace\\Locations\\src\\icon\\BMWX7.png
+Citroen C4 2020 500 C:\\Users\\minou\\eclipse-workspace\\Locations\\src\\icon\\CitroenC4.png
+Chevrolet Camaro 2013 200 C:\\Users\\minou\\eclipse-workspace\\Locations\\src\\icon\\Chevrolet.png
+Nissan Armada 2017 300 C:\\Users\\minou\\eclipse-workspace\\Locations\\src\\icon\\Nissan.png
+Ford Figo 2013 200 C:\\Users\\minou\\eclipse-workspace\\Locations\\src\\icon\\Ford.png
+Mitsubishi Evo 2015 250 C:\\Users\\minou\\eclipse-workspace\\Locations\\src\\icon\\Mitsubishi.png
+Honda Civic 2021 400 C:\\Users\\minou\\eclipse-workspace\\Locations\\src\\icon\\Honda.png
+Ford Focus 2016 350 C:\\Users\\minou\\eclipse-workspace\\Locations\\src\\icon\\FordFocus.png
+Audi AudiA4 2018 300 C:\\Users\\minou\\eclipse-workspace\\Locations\\src\\icon\\AudiA4.png
